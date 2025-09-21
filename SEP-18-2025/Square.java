@@ -1,7 +1,7 @@
-package com.tns.septeighteen;
+package com.tns.azlansami;
 
 public class Square extends Shape {
-	int side = 2;
+	int side = 14;
 	public Square(int s) {
 		this.side=s;
 	}
@@ -9,3 +9,4 @@ public class Square extends Shape {
 		super.area = side*side;
 	}
 }
+
