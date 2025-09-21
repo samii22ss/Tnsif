@@ -1,4 +1,4 @@
-package com.tns.septeighteen;
+package com.tns.azlansami;
 
 public abstract class Shape {
 		protected int area;
@@ -7,3 +7,4 @@ public abstract class Shape {
 			System.out.println("The area of shape is "+area);
 		}
 }
+
