@@ -1,4 +1,4 @@
-package com.tnstasksjava;
+package com.bigarm;
 import java.util.*;
 public class ArmStrong {
 public static void main(String[] args) {
@@ -20,3 +20,4 @@ public static void main(String[] args) {
 	}
 }
 }
+
