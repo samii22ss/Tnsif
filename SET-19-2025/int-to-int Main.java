@@ -1,4 +1,4 @@
-package com.tns.septnineteen;
+package com.tns.azlansami;
 
 public class Int2IntMain {
 
@@ -10,3 +10,4 @@ public class Int2IntMain {
 	}
 
 }
+
