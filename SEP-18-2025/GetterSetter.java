@@ -20,9 +20,10 @@ public class GetterSetter {
 
 	public static void main(String[] args) {
 		sample obj = new sample();
-		obj.setAge(21);
-		obj.setName("Akhil");
+		obj.setAge(20);
+		obj.setName("AZLANSAMI");
 		System.out.println(obj.getName()+" "+obj.getAge());
 	}
 
 }
+
