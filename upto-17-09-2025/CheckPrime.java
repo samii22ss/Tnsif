@@ -1,4 +1,4 @@
-package com.tnstasksjava;
+package com.primeplus;
 import java.util.*;
 
 public class CheckPrime {
@@ -21,3 +21,4 @@ public class CheckPrime {
 	}
 
 }
+
