@@ -1,4 +1,4 @@
-package com.tnstasksjava;
+package com.palindrome;
 import java.util.*;
 public class Palindrome {
 public static void main(String[] args) {
@@ -19,3 +19,4 @@ public static void main(String[] args) {
 	}
 }
 }
+
