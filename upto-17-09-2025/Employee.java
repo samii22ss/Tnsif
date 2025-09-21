@@ -1,10 +1,10 @@
-package com.tns.inheritance;
+package com.tns.inheritanceemp;
 import java.util.Scanner;
 
 public class Employee {
 
 	public static void main(String[] args) {
-		System.out.println("=======Enter the Employee details=======");
+		System.out.println("=======Enter the Employee details==");
 		Scanner sc = new Scanner(System.in);
 		String ename, elocation;
 		System.out.println("Enter the Employee Name");
@@ -16,7 +16,7 @@ public class Employee {
 		System.out.println("Enter the Employee Salary");
 		double esalary = sc.nextDouble();
 		sc.close();
-		System.out.println("=======Display of Employee details=======");
+		System.out.println("=======Display of Employee details==");
 		System.out.println("Name:"+ename);
 		System.out.println("Id:"+eid);
 		System.out.println("Location:"+elocation);
@@ -24,3 +24,4 @@ public class Employee {
 	}
 
 }
+
