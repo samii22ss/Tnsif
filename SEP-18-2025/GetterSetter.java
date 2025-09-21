@@ -1,4 +1,4 @@
-package com.tns.septeighteen;
+package com.tns.azlansami;
 
 class sample{
  private int Age;
@@ -26,4 +26,5 @@ public class GetterSetter {
 	}
 
 }
+
 
