@@ -1,4 +1,4 @@
-package com.tns.inheritance;
+package com.tns.inheritancehierarchical;
 
 class A{
 	String A = "Variable of Class A";
@@ -41,3 +41,4 @@ public class Herierachal {
 	}
 
 }
+
