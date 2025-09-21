@@ -1,4 +1,4 @@
-package com.tns.septseventeen;
+package com.tns.overloading;
 class method1{
 	public void mdemo(int a , int b){
 		System.out.println("This is method with 2 parameters");
@@ -33,10 +33,11 @@ public class Overloading {
 		method1 obj = new method1();
 		obj.mdemo(1,2);
 		obj.mdemo(1,2,3);
-		obj.mdemo("Akhil","Nallapu");
-		obj.mdemo("Akhil", 201);
-		obj.mdemo(201, "Akhil");
+		obj.mdemo("Azlansami,"Mohammad");
+		obj.mdemo("Azlansami", 240);
+		obj.mdemo(240, "Azlansami");
 
 	}
 
 }
+
