@@ -1,4 +1,4 @@
-package com.tns.inheritance;
+package com.tns.inheritancehybrid;
 class AA{
 	String A = "This is variable of A";
 	void a() {
@@ -42,3 +42,4 @@ public class Hybrid {
 	}
 
 }
+
