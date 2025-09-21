@@ -1,4 +1,4 @@
-package com.tnstasksjava;
+package com.eveodd;
 import java.util.*;
 
 public class EvenOdd {
@@ -17,3 +17,4 @@ public class EvenOdd {
 	}
 
 }
+
