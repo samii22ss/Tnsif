@@ -1,4 +1,4 @@
-package com.tnstasksjava;
+package com.datatype;
 
 public class DataTypes {
 
@@ -28,3 +28,4 @@ public class DataTypes {
 	}
 
 }
+
