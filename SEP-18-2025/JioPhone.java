@@ -1,10 +1,11 @@
-package com.tns.septeighteen;
+package com.tns.azlansami;
 
 class JioPhone implements Phone {
 	public void call(){
-		System.out.println("Jio calls available");
+		System.out.println("Jio calls un-available");
 	}
 	public void sms(){
 		System.out.println("Jio sms available");
 	}
 }
+
