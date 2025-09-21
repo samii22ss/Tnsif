@@ -1,13 +1,13 @@
-package com.tns.septnineteen;
+package com.tns.azlansami;
 
 public class WrapperDemo {
 
 	public static void main(String[] args) {
 		//auto-boxing 3 examples
-		int num =5;
+		int num =9;
 		Integer num1 = num;
 		
-		double dob = 5.0;
+		double dob = 9.0;
 		Double dob1 = dob;
 		
 		char ch = 'A';
@@ -21,3 +21,4 @@ public class WrapperDemo {
 		
 	}
 }
+
