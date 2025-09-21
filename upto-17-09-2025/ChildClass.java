@@ -1,4 +1,4 @@
-package com.tns.inheritance;
+package com.tns.child;
 
 class ParentClass {
     public void displayMessage() {
@@ -18,4 +18,5 @@ class ChildClass extends ParentClass {
         ChildClass child = new ChildClass();
         child.displayMessage();
     }
+
 }
